@@ -32,7 +32,7 @@ with open("input.txt","r+")as inp,open("1.txt","r+")as file1,open("2.txt","r+") 
     file1.seek(0)
     print(len(file1.readlines()),"items left.")
     while True:
-        search=input("Search for a string or number: ")
+        search=input("Search for a string or number: ").lower()
         print()
         results=[]
         file1.seek(0)
