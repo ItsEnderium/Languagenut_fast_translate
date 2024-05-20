@@ -2,25 +2,25 @@
 002 | ils / elles ont l'air | they seem
 003 | heureux | happy
 004 | triste | sad
-005 | fatigué | tired
+005 | fatigue | tired
 006 | sportif | sporty
 007 | actif | active
 008 | paresseux | lazy
 009 | travailleur | hardworking
-010 | énervé | annoyed
-011 | détendu | relaxed
+010 | enerve | annoyed
+011 | detendu | relaxed
 012 | je peux voir | i can see
 013 | il y a | there is
 014 | un homme | a man
-015 | un garçon | a boy
+015 | un garcon | a boy
 016 | une fille | a girl
 017 | une famille | a family
 018 | un couple | a couple
 019 | des enfants | some children
 020 | des ados | some teenagers
 021 | des jeunes | some young people
-022 | des élèves | some pupils
-023 | des bâtiments | some buildings
+022 | des eleves | some pupils
+023 | des batiments | some buildings
 024 | des arbres | some trees
 025 | des fleurs | some flowers
 026 | des animaux | some animals
@@ -40,19 +40,19 @@
 040 | il / elle est | he / she is
 041 | ils / elles sont | they are
 042 | dehors | outside
-043 | à la plage | at the beach
+043 | a la plage | at the beach
 044 | au bord de la mer | by the sea
-045 | à l'école | at school
-046 | au collège | at secondary school (ks3)
-047 | au lycée | at secondary school (ks4/5)
-048 | à la montagne | in the mountains
-049 | à la campagne | in the countryside
-050 | à la maison | at home
+045 | a l'ecole | at school
+046 | au college | at secondary school (ks3)
+047 | au lycee | at secondary school (ks4/5)
+048 | a la montagne | in the mountains
+049 | a la campagne | in the countryside
+050 | a la maison | at home
 051 | en ville | in town
 052 | en vacances | on holiday
 053 | au parc | at the park
 054 | au centre commercial | at the shopping centre
-055 | au cinéma | at the cinema
+055 | au cinema | at the cinema
 056 | au restaurant | in a restaurant
 057 | dans une salle de classe | in a classroom
 058 | il / elle est en train de | he / she is in the process of
@@ -61,11 +61,11 @@
 061 | aller | going
 062 | regarder | watching
 063 | lire | reading
-064 | écouter | listening
+064 | ecouter | listening
 065 | manger | eating
 066 | boire | drinking
 067 | jouer | playing
-068 | étudier | studying
+068 | etudier | studying
 069 | apprendre | learning
 070 | bavarder | chatting
 071 | parler | talking
@@ -99,7 +99,7 @@
 099 | j'adore | i love
 100 | j'aime | i like
 101 | je n'aime pas | i don't like
-102 | je déteste | i hate
+102 | je deteste | i hate
 103 | parce que | because
 104 | a mon avis | in my opinion
 105 | je dirais que | i would say that
