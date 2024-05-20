@@ -1,0 +1,112 @@
+il / elle a l'air	he / she seems
+ils / elles ont l'air	they seem
+heureux	happy
+triste	sad
+fatigue	tired
+sportif	sporty
+actif	active
+paresseux	lazy
+travailleur	hardworking
+enerve	annoyed
+detendu	relaxed
+je peux voir	i can see
+il y a	there is
+un homme	a man
+un garcon	a boy
+une fille	a girl
+une famille	a family
+un couple	a couple
+des enfants	some children
+des ados	some teenagers
+des jeunes	some young people
+des eleves	some pupils
+des batiments	some buildings
+des arbres	some trees
+des fleurs	some flowers
+des animaux	some animals
+des maisons	some houses
+des magasins	some shops
+des montagnes	some mountains
+des champs	some fields
+des voitures	some cars
+il y a du soleil	it's sunny
+il y a du vent	it's windy
+il fait beau	it's good weather
+il fait mauvais	it's bad weather
+il fait chaud	it's hot
+il fait froid	it's cold
+il pleut	it's raining
+il neige	it's snowing
+il / elle est	he / she is
+ils / elles sont	they are
+dehors	outside
+à la plage	at the beach
+au bord de la mer	by the sea
+à l'ecole	at school
+au college	at secondary school (ks3)
+au lycee	at secondary school (ks4/5)
+à la montagne	in the mountains
+à la campagne	in the countryside
+à la maison	at home
+en ville	in town
+en vacances	on holiday
+au parc	at the park
+au centre commercial	at the shopping centre
+au cinema	at the cinema
+au restaurant	in a restaurant
+dans une salle de classe	in a classroom
+il / elle est en train de	he / she is in the process of
+ils / elles sont en train de	they are in the process of
+faire	doing
+aller	going
+regarder	watching
+lire	reading
+ecouter	listening
+manger	eating
+boire	drinking
+jouer	playing
+etudier	studying
+apprendre	learning
+bavarder	chatting
+parler	talking
+courir	running
+dormir	sleeping
+travailler	working
+il / elle a x ans	he / she is x years old
+ils / elles ont x ans	they are x years old
+il / elle porte	he / she is wearing
+des baskets	trainers
+des chaussures	shoes
+des lunettes	glasses
+une chemise	a shirt
+une cravate	a tie
+une jupe	a skirt
+une robe	a dress
+un costume	a suit
+un jean	jeans
+un pantalon	trousers
+un short	shorts
+un sweat	a sweatshirt
+un t-shirt	a t-shirt
+il / elle a les yeux x	he / she has x eyes
+il / elle a les cheveux x	he / she has x hair
+il / elle est	he / she is
+grand(e)	tall
+petit(e)	short
+de taille moyenne	average height
+personnellement	personally
+moi	me
+j'adore	i love
+j'aime	i like
+je n'aime pas	i don't like
+je deteste	i hate
+parce que	because
+a mon avis	in my opinion
+je dirais que	i would say that
+il me semble que	it seems to me that
+j'ai l'impression que	i get the impression that
+et	and
+de plus	what's more
+en outre	furthermore
+par ailleurs	in addition
+sur la photo	in the photo
