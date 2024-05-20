@@ -35,8 +35,8 @@ with open("input.txt","r+")as inp,open("1.txt","r+")as file1,open("2.txt","r+") 
         search=input("Search for a string or number: ")
         print()
         results=[]
-        file2.seek(0)
-        for i in file2:
+        file1.seek(0)
+        for i in file1:
             if search in i:
                 results.append(i.strip())
         print(len(results)if len(results)!=0else"No","result"+("s"if len(results)!=1else""),"found"+(":"if len(results)!=0else"."))
