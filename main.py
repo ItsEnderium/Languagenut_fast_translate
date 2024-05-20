@@ -46,13 +46,19 @@ with open("input.txt","r+")as inp,open("1.txt","r+")as file1,open("2.txt","r+") 
             f2=""
             file2.seek(0)
             for i in file2:
-                if i!=results[0]:
+                if results[0] not in i:
                     f2+=i
             file2.seek(0)
             file2.write(f2)
             file2.truncate()
             file1.seek(0)
-            file1.write(f2)
+            lines=file1.readlines()
+            f1=""
+            for i in lines:
+                if results[0] not in i:
+                    f1+=i
+            file1.seek(0)
+            file1.write(f1)
             file1.truncate()
             file1.seek(0)
             print("Item removed,",len(file1.readlines()),"items left.")
