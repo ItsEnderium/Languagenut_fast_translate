@@ -108,5 +108,4 @@
 108 | et | and
 109 | de plus | what's more
 110 | en outre | furthermore
-111 | par ailleurs | in addition
 112 | sur la photo | in the photo
